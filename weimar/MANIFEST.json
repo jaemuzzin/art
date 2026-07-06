@@ -1752,5 +1752,245 @@
   "year": "1927",
   "batch": 3,
   "src": "eu"
+ },
+ {
+  "file": "Ludwig_Hohlwein_Deutscher_Rundflug_1925.jpg",
+  "artist": "Ludwig Hohlwein",
+  "work": "Deutscher Rundflug",
+  "year": "1925",
+  "batch": 6,
+  "src": "commons"
+ },
+ {
+  "file": "Julius_Klinger_Constancy_1929.jpg",
+  "artist": "Julius Klinger",
+  "work": "Constancy",
+  "year": "1929",
+  "batch": 6,
+  "src": "commons"
+ },
+ {
+  "file": "Jupp_Wiertz_Herrenfahrer_1924.jpg",
+  "artist": "Jupp Wiertz",
+  "work": "Herrenfahrer",
+  "year": "1924",
+  "batch": 6,
+  "src": "commons"
+ },
+ {
+  "file": "Ernst_Deutsch_Dryden_Deutsch_Barba_Raiserpaste_1920.jpg",
+  "artist": "Ernst Deutsch-Dryden",
+  "work": "Deutsch Barba Raiserpaste",
+  "year": "1920",
+  "batch": 6,
+  "src": "commons"
+ },
+ {
+  "file": "Lucian_Bernhard_Advertising_poster_1924.jpg",
+  "artist": "Lucian Bernhard",
+  "work": "Advertising poster",
+  "year": "1924",
+  "batch": 6,
+  "src": "commons"
+ },
+ {
+  "file": "Ludwig_Hohlwein_Torpedo_Weilwerke_AG_1924.jpg",
+  "artist": "Ludwig Hohlwein",
+  "work": "Torpedo Weilwerke AG",
+  "year": "1924",
+  "batch": 6,
+  "src": "commons"
+ },
+ {
+  "file": "Julius_Klinger_Tabu_1919.jpg",
+  "artist": "Julius Klinger",
+  "work": "Tabu",
+  "year": "1919",
+  "batch": 6,
+  "src": "commons"
+ },
+ {
+  "file": "Jupp_Wiertz_Gummiwerke_Excelsior_1921.png",
+  "artist": "Jupp Wiertz",
+  "work": "Gummiwerke Excelsior",
+  "year": "1921",
+  "batch": 6,
+  "src": "commons"
+ },
+ {
+  "file": "Hans_Rudi_Erdt_Opel_1918.jpg",
+  "artist": "Hans Rudi Erdt",
+  "work": "Opel",
+  "year": "1918",
+  "batch": 6,
+  "src": "commons"
+ },
+ {
+  "file": "Ernst_Deutsch_Dryden_Dolus_Finest_Shoe_Polish_1920.jpg",
+  "artist": "Ernst Deutsch-Dryden",
+  "work": "Dolus Finest Shoe Polish",
+  "year": "1920",
+  "batch": 6,
+  "src": "commons"
+ },
+ {
+  "file": "Ludwig_Hohlwein_Die_Sommermode_schoner_Pelz_1925.jpg",
+  "artist": "Ludwig Hohlwein",
+  "work": "Die Sommermode schöner Pelz",
+  "year": "1925",
+  "batch": 6,
+  "src": "commons"
+ },
+ {
+  "file": "Julius_Klinger_Wiener_Messe_1922.jpg",
+  "artist": "Julius Klinger",
+  "work": "Wiener Messe",
+  "year": "1922",
+  "batch": 6,
+  "src": "commons"
+ },
+ {
+  "file": "Jupp_Wiertz_Der_Junggeselle_1920.jpg",
+  "artist": "Jupp Wiertz",
+  "work": "Der Junggeselle",
+  "year": "1920",
+  "batch": 6,
+  "src": "commons"
+ },
+ {
+  "file": "Hans_Rudi_Erdt_Werbeprospekt_Deutsche_Luft_Reederei_mit_Kranich_Logo_Deutsche_Lufthan_1920.jpg",
+  "artist": "Hans Rudi Erdt",
+  "work": "Werbeprospekt Deutsche Luft Reederei mit Kranich Logo Deutsche Lufthan",
+  "year": "1920",
+  "batch": 6,
+  "src": "commons"
+ },
+ {
+  "file": "Ernst_Deutsch_Dryden_Hedy_Nils_Tony_Birkmeyer_tanzen_1920.jpg",
+  "artist": "Ernst Deutsch-Dryden",
+  "work": "Hedy Nils & Tony Birkmeyer tanzen",
+  "year": "1920",
+  "batch": 6,
+  "src": "commons"
+ },
+ {
+  "file": "Ludwig_Hohlwein_Kulmbacher_Monchshof_Brau_1926.jpg",
+  "artist": "Ludwig Hohlwein",
+  "work": "Kulmbacher Mönchshof Bräu",
+  "year": "1926",
+  "batch": 6,
+  "src": "commons"
+ },
+ {
+  "file": "Julius_Klinger_Reklamemarken_Finkenstedt_s_Blumendunger_Lehrte_in_Hannover_1920.jpg",
+  "artist": "Julius Klinger",
+  "work": "Reklamemarken Finkenstedt's Blumendünger Lehrte in Hannover",
+  "year": "1920",
+  "batch": 6,
+  "src": "commons"
+ },
+ {
+  "file": "Jupp_Wiertz_Mercedes_Daimler_Motoren_1918.jpg",
+  "artist": "Jupp Wiertz",
+  "work": "Mercedes Daimler Motoren",
+  "year": "1918",
+  "batch": 6,
+  "src": "commons"
+ },
+ {
+  "file": "Hans_Rudi_Erdt_Deutsche_Luft_Reederei_Rundfluge_uber_Potsdam_das_Markische_Seengebiet_1919.jpg",
+  "artist": "Hans Rudi Erdt",
+  "work": "Deutsche Luft Reederei Rundflüge über Potsdam das Märkische Seengebiet",
+  "year": "1919",
+  "batch": 6,
+  "src": "commons"
+ },
+ {
+  "file": "Ludwig_Hohlwein_Igeha_Schokolade_1926.jpg",
+  "artist": "Ludwig Hohlwein",
+  "work": "Igeha Schokolade",
+  "year": "1926",
+  "batch": 6,
+  "src": "commons"
+ },
+ {
+  "file": "Julius_Klinger_Wiener_Internationale_Messe_1921.jpg",
+  "artist": "Julius Klinger",
+  "work": "Wiener Internationale Messe",
+  "year": "1921",
+  "batch": 6,
+  "src": "commons"
+ },
+ {
+  "file": "Jupp_Wiertz_Das_Leben_Juni_1926.jpg",
+  "artist": "Jupp Wiertz",
+  "work": "Das Leben Juni",
+  "year": "1926",
+  "batch": 6,
+  "src": "commons"
+ },
+ {
+  "file": "Hans_Rudi_Erdt_Alkohol_1919.jpg",
+  "artist": "Hans Rudi Erdt",
+  "work": "Alkohol",
+  "year": "1919",
+  "batch": 6,
+  "src": "commons"
+ },
+ {
+  "file": "Ludwig_Hohlwein_Kathreiner_Weine_1926.jpg",
+  "artist": "Ludwig Hohlwein",
+  "work": "Kathreiner Weine",
+  "year": "1926",
+  "batch": 6,
+  "src": "commons"
+ },
+ {
+  "file": "Julius_Klinger_Mocca_July_1928.jpg",
+  "artist": "Julius Klinger",
+  "work": "Mocca July",
+  "year": "1928",
+  "batch": 6,
+  "src": "commons"
+ },
+ {
+  "file": "Jupp_Wiertz_Das_Parfum_dieses_Winters_Vogue_Firma_F_Wolff_Sohn_Karlsruhe_1926.jpg",
+  "artist": "Jupp Wiertz",
+  "work": "„Das Parfüm dieses Winters Vogue“ Firma F Wolff & Sohn Karlsruhe",
+  "year": "1926",
+  "batch": 6,
+  "src": "commons"
+ },
+ {
+  "file": "Ludwig_Hohlwein_Karnatzki_Schokolade_1926.jpg",
+  "artist": "Ludwig Hohlwein",
+  "work": "Karnatzki Schokolade",
+  "year": "1926",
+  "batch": 6,
+  "src": "commons"
+ },
+ {
+  "file": "Ludwig_Hohlwein_Igeha_Grunwappen_Kakao_Hauswaldt_1926.jpg",
+  "artist": "Ludwig Hohlwein",
+  "work": "Igeha Grünwappen Kakao Hauswaldt",
+  "year": "1926",
+  "batch": 6,
+  "src": "commons"
+ },
+ {
+  "file": "Jupp_Wiertz_Berliner_Leben_1925.jpg",
+  "artist": "Jupp Wiertz",
+  "work": "Berliner Leben",
+  "year": "1925",
+  "batch": 6,
+  "src": "commons"
+ },
+ {
+  "file": "Ludwig_Hohlwein_Lowenbrau_Marzen_1926.jpg",
+  "artist": "Ludwig Hohlwein",
+  "work": "Löwenbräu Märzen",
+  "year": "1926",
+  "batch": 6,
+  "src": "commons"
  }
 ]

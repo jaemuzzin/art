@@ -112,13 +112,6 @@
   "kind": "painting"
  },
  {
-  "file": "Willem_de_Kooning_Suburb_in_Havana_1958.jpg",
-  "artist": "Willem de Kooning",
-  "work": "Suburb in Havana",
-  "year": "1958",
-  "kind": "painting"
- },
- {
   "file": "Franz_Kline_Mahoning_1956.jpg",
   "artist": "Franz Kline",
   "work": "Mahoning",
@@ -175,13 +168,6 @@
   "kind": "painting"
  },
  {
-  "file": "Willem_de_Kooning_Untitled_1964.jpg",
-  "artist": "Willem de Kooning",
-  "work": "Untitled",
-  "year": "1964",
-  "kind": "painting"
- },
- {
   "file": "Franz_Kline_Zinc_Yellow_1959.jpg",
   "artist": "Franz Kline",
   "work": "Zinc Yellow",
@@ -228,13 +214,6 @@
   "artist": "Barnett Newman",
   "work": "The Blessing",
   "year": "1944",
-  "kind": "painting"
- },
- {
-  "file": "Franz_Kline_Hot_Jazz_1940.jpg",
-  "artist": "Franz Kline",
-  "work": "Hot Jazz",
-  "year": "1940",
   "kind": "painting"
  },
  {
@@ -291,13 +270,6 @@
   "artist": "Kenneth Noland",
   "work": "In the Garden",
   "year": "1952",
-  "kind": "painting"
- },
- {
-  "file": "Sam_Francis_Untitled_1947.jpg",
-  "artist": "Sam Francis",
-  "work": "Untitled",
-  "year": "1947",
   "kind": "painting"
  },
  {
@@ -430,13 +402,6 @@
   "file": "Kenneth_Noland_Dark_Cherry_1966.jpg",
   "artist": "Kenneth Noland",
   "work": "Dark Cherry",
-  "year": "1966",
-  "kind": "painting"
- },
- {
-  "file": "Sam_Francis_Untitled_Sketch_SF66_048_1966.jpg",
-  "artist": "Sam Francis",
-  "work": "Untitled (Sketch) (SF66-048)",
   "year": "1966",
   "kind": "painting"
  },
@@ -585,6 +550,356 @@
   "artist": "Victor Vasarely",
   "work": "DVA-DVA",
   "year": "1986",
+  "kind": "painting"
+ },
+ {
+  "file": "Mark_Rothko_Untitled_brown_and_gray_1969.jpg",
+  "artist": "Mark Rothko",
+  "work": "Untitled (brown and gray)",
+  "year": "1969",
+  "kind": "painting"
+ },
+ {
+  "file": "Jackson_Pollock_Ocean_Greyness_1953.jpg",
+  "artist": "Jackson Pollock",
+  "work": "Ocean Greyness",
+  "year": "1953",
+  "kind": "painting"
+ },
+ {
+  "file": "Clyfford_Still_PH_21_1962.jpg",
+  "artist": "Clyfford Still",
+  "work": "PH-21",
+  "year": "1962",
+  "kind": "painting"
+ },
+ {
+  "file": "Franz_Kline_Scudera_1961.jpg",
+  "artist": "Franz Kline",
+  "work": "Scudera",
+  "year": "1961",
+  "kind": "painting"
+ },
+ {
+  "file": "Frank_Stella_Prinz_Friedrich_von_Homburg_Ein_Schauspiel_3X_2001.jpg",
+  "artist": "Frank Stella",
+  "work": "Prinz Friedrich von Homburg, Ein Schauspiel, 3X",
+  "year": "2001",
+  "kind": "painting"
+ },
+ {
+  "file": "Victor_Vasarely_Tekers_MC_1981.jpg",
+  "artist": "Victor Vasarely",
+  "work": "Tekers-MC",
+  "year": "1981",
+  "kind": "painting"
+ },
+ {
+  "file": "Bridget_Riley_Rose_Rose_London_2012_Olympic_Games_Poster_2012.jpg",
+  "artist": "Bridget Riley",
+  "work": "Rose Rose (London 2012 Olympic Games Poster)",
+  "year": "2012",
+  "kind": "painting"
+ },
+ {
+  "file": "Morris_Louis_Partition_1962.jpg",
+  "artist": "Morris Louis",
+  "work": "Partition",
+  "year": "1962",
+  "kind": "painting"
+ },
+ {
+  "file": "Kenneth_Noland_Untitled_2009.jpg",
+  "artist": "Kenneth Noland",
+  "work": "Untitled",
+  "year": "2009",
+  "kind": "painting"
+ },
+ {
+  "file": "Helen_Frankenthaler_Aerie_2009.jpg",
+  "artist": "Helen Frankenthaler",
+  "work": "Aerie",
+  "year": "2009",
+  "kind": "painting"
+ },
+ {
+  "file": "Robert_Motherwell_Blue_Elegy_1987.jpg",
+  "artist": "Robert Motherwell",
+  "work": "Blue Elegy",
+  "year": "1987",
+  "kind": "painting"
+ },
+ {
+  "file": "Ad_Reinhardt_Abstract_Painting_1966.jpg",
+  "artist": "Ad Reinhardt",
+  "work": "Abstract Painting",
+  "year": "1966",
+  "kind": "painting"
+ },
+ {
+  "file": "Hans_Hofmann_The_Castle_1965.jpg",
+  "artist": "Hans Hofmann",
+  "work": "The Castle",
+  "year": "1965",
+  "kind": "painting"
+ },
+ {
+  "file": "Agnes_Martin_The_Sea_2003.jpg",
+  "artist": "Agnes Martin",
+  "work": "The Sea",
+  "year": "2003",
+  "kind": "painting"
+ },
+ {
+  "file": "Ellsworth_Kelly_Orange_Relief_with_Blue_2011.jpg",
+  "artist": "Ellsworth Kelly",
+  "work": "Orange Relief with Blue",
+  "year": "2011",
+  "kind": "painting"
+ },
+ {
+  "file": "Richard_Diebenkorn_Recollections_of_a_Visit_to_Leningrad_1965.jpg",
+  "artist": "Richard Diebenkorn",
+  "work": "Recollections of a Visit to Leningrad",
+  "year": "1965",
+  "kind": "painting"
+ },
+ {
+  "file": "Jules_Olitski_Eos_the_Titan_2006.jpg",
+  "artist": "Jules Olitski",
+  "work": "Eos the Titan",
+  "year": "2006",
+  "kind": "painting"
+ },
+ {
+  "file": "Gene_Davis_Untitled_1985.jpg",
+  "artist": "Gene Davis",
+  "work": "Untitled",
+  "year": "1985",
+  "kind": "painting"
+ },
+ {
+  "file": "Sam_Gilliam_Sac_1_2012.jpg",
+  "artist": "Sam Gilliam",
+  "work": "Sac 1",
+  "year": "2012",
+  "kind": "painting"
+ },
+ {
+  "file": "Lee_Krasner_Embrace_1974.jpg",
+  "artist": "Lee Krasner",
+  "work": "Embrace",
+  "year": "1974",
+  "kind": "painting"
+ },
+ {
+  "file": "Joan_Mitchell_Ici_1992.jpg",
+  "artist": "Joan Mitchell",
+  "work": "Ici",
+  "year": "1992",
+  "kind": "painting"
+ },
+ {
+  "file": "Adolph_Gottlieb_Festival_1973.jpg",
+  "artist": "Adolph Gottlieb",
+  "work": "Festival",
+  "year": "1973",
+  "kind": "painting"
+ },
+ {
+  "file": "Mark_Tobey_Morning_Grass_1975.jpg",
+  "artist": "Mark Tobey",
+  "work": "Morning Grass",
+  "year": "1975",
+  "kind": "painting"
+ },
+ {
+  "file": "Norman_Lewis_Eye_of_the_Storm_Seachange_XV_1977.jpg",
+  "artist": "Norman Lewis",
+  "work": "Eye of the Storm(Seachange XV)",
+  "year": "1977",
+  "kind": "painting"
+ },
+ {
+  "file": "Burgoyne_Diller_First_Theme_1964.jpg",
+  "artist": "Burgoyne Diller",
+  "work": "First Theme",
+  "year": "1964",
+  "kind": "painting"
+ },
+ {
+  "file": "Ilya_Bolotowsky_Untitled_Composition_1980.jpg",
+  "artist": "Ilya Bolotowsky",
+  "work": "Untitled Composition",
+  "year": "1980",
+  "kind": "painting"
+ },
+ {
+  "file": "Auguste_Herbin_Le_Fin_1960.jpg",
+  "artist": "Auguste Herbin",
+  "work": "Le Fin",
+  "year": "1960",
+  "kind": "painting"
+ },
+ {
+  "file": "Jean_Helion_Remake_1983.jpg",
+  "artist": "Jean Helion",
+  "work": "Remake",
+  "year": "1983",
+  "kind": "painting"
+ },
+ {
+  "file": "Cesar_Domela_Composition_1974.jpg",
+  "artist": "Cesar Domela",
+  "work": "Composition",
+  "year": "1974",
+  "kind": "painting"
+ },
+ {
+  "file": "Sophie_Taeuber_Arp_O_T_Croisement_de_droites_plans_1942.jpg",
+  "artist": "Sophie Taeuber-Arp",
+  "work": "O. T.(Croisement de droites, plans)",
+  "year": "1942",
+  "kind": "painting"
+ },
+ {
+  "file": "Max_Bill_Untitled_1987.jpg",
+  "artist": "Max Bill",
+  "work": "Untitled",
+  "year": "1987",
+  "kind": "painting"
+ },
+ {
+  "file": "Ernst_Wilhelm_Nay_Farblitho_1968_2_NOR_1968.jpg",
+  "artist": "Ernst Wilhelm Nay",
+  "work": "Farblitho 1968 - 2 (NOR)",
+  "year": "1968",
+  "kind": "painting"
+ },
+ {
+  "file": "Willi_Baumeister_Aru_2_1955.jpg",
+  "artist": "Willi Baumeister",
+  "work": "Aru 2",
+  "year": "1955",
+  "kind": "painting"
+ },
+ {
+  "file": "Fritz_Winter_Untitled_1971.jpg",
+  "artist": "Fritz Winter",
+  "work": "Untitled",
+  "year": "1971",
+  "kind": "painting"
+ },
+ {
+  "file": "Hans_Hartung_Untitled_T1989_A3_1989.jpg",
+  "artist": "Hans Hartung",
+  "work": "Untitled (T1989-A3)",
+  "year": "1989",
+  "kind": "painting"
+ },
+ {
+  "file": "Pierre_Soulages_Peinture_244_x_181_cm_25_avril_2011_2011.jpg",
+  "artist": "Pierre Soulages",
+  "work": "Peinture 244 x 181 cm, 25 avril 2011",
+  "year": "2011",
+  "kind": "painting"
+ },
+ {
+  "file": "Serge_Poliakoff_Composition_multicolore_a_dominante_bleue_1969.jpg",
+  "artist": "Serge Poliakoff",
+  "work": "Composition multicolore à dominante bleue",
+  "year": "1969",
+  "kind": "painting"
+ },
+ {
+  "file": "Alberto_Magnelli_La_Magnanerie_de_la_Ferrage_1971.jpg",
+  "artist": "Alberto Magnelli",
+  "work": "La Magnanerie de la Ferrage",
+  "year": "1971",
+  "kind": "painting"
+ },
+ {
+  "file": "Olga_Rozanova_Collage_1918.jpg",
+  "artist": "Olga Rozanova",
+  "work": "Collage",
+  "year": "1918",
+  "kind": "painting"
+ },
+ {
+  "file": "Aleksandra_Ekster_Don_Juan_and_death_Sheet_of_from_the_album_Theater_Set_1930.jpg",
+  "artist": "Aleksandra Ekster",
+  "work": "Don Juan, and death. Sheet of from the album \"Theater Set\"",
+  "year": "1930",
+  "kind": "painting"
+ },
+ {
+  "file": "Ivan_Kliun_1923_Suprematist_Composition_1923.jpg",
+  "artist": "Ivan Kliun",
+  "work": "1923 Suprematist Composition С Двумя Центрами",
+  "year": "1923",
+  "kind": "painting"
+ },
+ {
+  "file": "William_Baziotes_Opalescent_1962.jpg",
+  "artist": "William Baziotes",
+  "work": "Opalescent",
+  "year": "1962",
+  "kind": "painting"
+ },
+ {
+  "file": "Richard_Pousette_Dart_Imploding_Cosmos_1992.jpg",
+  "artist": "Richard Pousette-Dart",
+  "work": "Imploding Cosmos",
+  "year": "1992",
+  "kind": "painting"
+ },
+ {
+  "file": "Conrad_Marca_Relli_Summer_Rain_J_L_11_1986.jpg",
+  "artist": "Conrad Marca-Relli",
+  "work": "Summer Rain J-L-11",
+  "year": "1986",
+  "kind": "painting"
+ },
+ {
+  "file": "Perle_Fine_Accordment_Series_17_1977.jpg",
+  "artist": "Perle Fine",
+  "work": "Accordment Series #17",
+  "year": "1977",
+  "kind": "painting"
+ },
+ {
+  "file": "Jack_Bush_Leap_On_Blue_1976.jpg",
+  "artist": "Jack Bush",
+  "work": "Leap On Blue",
+  "year": "1976",
+  "kind": "painting"
+ },
+ {
+  "file": "John_Hoyland_Before_Time_Mysteries_12_05_01_11_2011.jpg",
+  "artist": "John Hoyland",
+  "work": "Before Time (Mysteries 12) 05-01-11",
+  "year": "2011",
+  "kind": "painting"
+ },
+ {
+  "file": "Mark_Rothko_Untitled_Gray_and_Mauve_1969.jpg",
+  "artist": "Mark Rothko",
+  "work": "Untitled (Gray and Mauve)",
+  "year": "1969",
+  "kind": "painting"
+ },
+ {
+  "file": "Jackson_Pollock_Blue_poles_Number_11_1952.jpg",
+  "artist": "Jackson Pollock",
+  "work": "Blue poles (Number 11)",
+  "year": "1952",
+  "kind": "painting"
+ },
+ {
+  "file": "Barnett_Newman_Be_I_1970.jpg",
+  "artist": "Barnett Newman",
+  "work": "Be I",
+  "year": "1970",
   "kind": "painting"
  }
 ]
