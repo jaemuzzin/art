@@ -894,5 +894,355 @@
   "work": "Be I",
   "year": "1970",
   "kind": "painting"
+ },
+ {
+  "file": "Josef_Albers_Homage_to_the_Square_1976.jpg",
+  "artist": "Josef Albers",
+  "work": "Homage to the Square",
+  "year": "1976",
+  "kind": "painting"
+ },
+ {
+  "file": "Anni_Albers_Orchestra_III_1980.jpg",
+  "artist": "Anni Albers",
+  "work": "Orchestra III",
+  "year": "1980",
+  "kind": "painting"
+ },
+ {
+  "file": "Richard_Anuszkiewicz_Spring_Mix_2000.jpg",
+  "artist": "Richard Anuszkiewicz",
+  "work": "Spring Mix",
+  "year": "2000",
+  "kind": "painting"
+ },
+ {
+  "file": "Jesus_Rafael_Soto_Mirror_2005.jpg",
+  "artist": "Jesus Rafael Soto",
+  "work": "Mirror",
+  "year": "2005",
+  "kind": "painting"
+ },
+ {
+  "file": "Carlos_Cruz_Diez_Environnement_Chromointerferent_2010.jpg",
+  "artist": "Carlos Cruz-Diez",
+  "work": "Environnement Chromointerférent",
+  "year": "2010",
+  "kind": "painting"
+ },
+ {
+  "file": "Julio_Le_Parc_L_Alchimiste_1992.jpg",
+  "artist": "Julio Le Parc",
+  "work": "L'Alchimiste",
+  "year": "1992",
+  "kind": "painting"
+ },
+ {
+  "file": "Yaacov_Agam_Hidden_Rainbow_x9_2002.jpg",
+  "artist": "Yaacov Agam",
+  "work": "Hidden Rainbow x9",
+  "year": "2002",
+  "kind": "painting"
+ },
+ {
+  "file": "Francois_Morellet_Lamentable_Despicable_2008.jpg",
+  "artist": "Francois Morellet",
+  "work": "Lamentable (Despicable)",
+  "year": "2008",
+  "kind": "painting"
+ },
+ {
+  "file": "Al_Held_Prime_Moments_II_1999.jpg",
+  "artist": "Al Held",
+  "work": "Prime Moments II",
+  "year": "1999",
+  "kind": "painting"
+ },
+ {
+  "file": "Ellsworth_Kelly_Red_Diagonal_2007.jpg",
+  "artist": "Ellsworth Kelly",
+  "work": "Red Diagonal",
+  "year": "2007",
+  "kind": "painting"
+ },
+ {
+  "file": "Friedel_Dzubas_Spring_Smell_1988.jpg",
+  "artist": "Friedel Dzubas",
+  "work": "Spring Smell",
+  "year": "1988",
+  "kind": "painting"
+ },
+ {
+  "file": "Jules_Olitski_Helios_The_Titan_2006.jpg",
+  "artist": "Jules Olitski",
+  "work": "Helios The Titan",
+  "year": "2006",
+  "kind": "painting"
+ },
+ {
+  "file": "Gene_Davis_Smithsonian_Resident_Associates_Program_1985_20th_Anniversary_Poster_1985.jpg",
+  "artist": "Gene Davis",
+  "work": "Smithsonian Resident Associates Program 1985 (20th Anniversary Poster)",
+  "year": "1985",
+  "kind": "painting"
+ },
+ {
+  "file": "Sam_Gilliam_Sac_2_2012.jpg",
+  "artist": "Sam Gilliam",
+  "work": "Sac 2",
+  "year": "2012",
+  "kind": "painting"
+ },
+ {
+  "file": "Kenneth_Noland_Days_and_Nights_2008.jpg",
+  "artist": "Kenneth Noland",
+  "work": "Days and Nights",
+  "year": "2008",
+  "kind": "painting"
+ },
+ {
+  "file": "Morris_Louis_Horizontal_VIII_1962.jpg",
+  "artist": "Morris Louis",
+  "work": "Horizontal VIII",
+  "year": "1962",
+  "kind": "painting"
+ },
+ {
+  "file": "Helen_Frankenthaler_Flotilla_2006.jpg",
+  "artist": "Helen Frankenthaler",
+  "work": "Flotilla",
+  "year": "2006",
+  "kind": "painting"
+ },
+ {
+  "file": "Adolph_Gottlieb_Amorphous_1973.jpg",
+  "artist": "Adolph Gottlieb",
+  "work": "Amorphous",
+  "year": "1973",
+  "kind": "painting"
+ },
+ {
+  "file": "Philip_Guston_Untitled_1980.jpg",
+  "artist": "Philip Guston",
+  "work": "Untitled",
+  "year": "1980",
+  "kind": "painting"
+ },
+ {
+  "file": "Jack_Tworkov_Indian_Red_Series_I_1979.jpg",
+  "artist": "Jack Tworkov",
+  "work": "Indian Red Series I",
+  "year": "1979",
+  "kind": "painting"
+ },
+ {
+  "file": "Esteban_Vicente_Untitled_2000.jpg",
+  "artist": "Esteban Vicente",
+  "work": "Untitled",
+  "year": "2000",
+  "kind": "painting"
+ },
+ {
+  "file": "Conrad_Marca_Relli_Sand_Brown_L_A_2_82_1982.jpg",
+  "artist": "Conrad Marca-Relli",
+  "work": "Sand Brown L-A-2-82",
+  "year": "1982",
+  "kind": "painting"
+ },
+ {
+  "file": "James_Brooks_Eastern_1982.jpg",
+  "artist": "James Brooks",
+  "work": "Eastern",
+  "year": "1982",
+  "kind": "painting"
+ },
+ {
+  "file": "Theodoros_Stamos_Edge_of_Burning_Brush_1986.jpg",
+  "artist": "Theodoros Stamos",
+  "work": "Edge of Burning Brush",
+  "year": "1986",
+  "kind": "painting"
+ },
+ {
+  "file": "Milton_Resnick_Me_and_Me_1994.jpg",
+  "artist": "Milton Resnick",
+  "work": "Me and Me",
+  "year": "1994",
+  "kind": "painting"
+ },
+ {
+  "file": "Richard_Pousette_Dart_From_the_Edge_of_Darkness_1992.jpg",
+  "artist": "Richard Pousette-Dart",
+  "work": "From the Edge of Darkness",
+  "year": "1992",
+  "kind": "painting"
+ },
+ {
+  "file": "Lee_Krasner_Rising_Green_1972.jpg",
+  "artist": "Lee Krasner",
+  "work": "Rising Green",
+  "year": "1972",
+  "kind": "painting"
+ },
+ {
+  "file": "Joan_Mitchell_Merci_1992.jpg",
+  "artist": "Joan Mitchell",
+  "work": "Merci",
+  "year": "1992",
+  "kind": "painting"
+ },
+ {
+  "file": "Grace_Hartigan_Josephine_1983.jpg",
+  "artist": "Grace Hartigan",
+  "work": "Joséphine",
+  "year": "1983",
+  "kind": "painting"
+ },
+ {
+  "file": "Elaine_de_Kooning_Glass_Wall_1987.jpg",
+  "artist": "Elaine de Kooning",
+  "work": "Glass Wall",
+  "year": "1987",
+  "kind": "painting"
+ },
+ {
+  "file": "Norman_Lewis_Ebb_Tide_1975.jpg",
+  "artist": "Norman Lewis",
+  "work": "Ebb Tide",
+  "year": "1975",
+  "kind": "painting"
+ },
+ {
+  "file": "Mark_Tobey_Sonata_1975.jpg",
+  "artist": "Mark Tobey",
+  "work": "Sonata",
+  "year": "1975",
+  "kind": "painting"
+ },
+ {
+  "file": "Hans_Hartung_Untitled_T1989_U11_1989.jpg",
+  "artist": "Hans Hartung",
+  "work": "Untitled (T1989-U11)",
+  "year": "1989",
+  "kind": "painting"
+ },
+ {
+  "file": "Pierre_Soulages_Peinture_18_Mars_2010_2010.jpg",
+  "artist": "Pierre Soulages",
+  "work": "Peinture 18 Mars 2010",
+  "year": "2010",
+  "kind": "painting"
+ },
+ {
+  "file": "Serge_Poliakoff_Composition_abstraite_1968.jpg",
+  "artist": "Serge Poliakoff",
+  "work": "Composition abstraite",
+  "year": "1968",
+  "kind": "painting"
+ },
+ {
+  "file": "Georges_Mathieu_Reflets_impatients_1990.jpg",
+  "artist": "Georges Mathieu",
+  "work": "Reflets impatients",
+  "year": "1990",
+  "kind": "painting"
+ },
+ {
+  "file": "Wols_Sketch_1965.jpg",
+  "artist": "Wols",
+  "work": "Sketch",
+  "year": "1965",
+  "kind": "painting"
+ },
+ {
+  "file": "Jean_Paul_Riopelle_Chemin_d_hiver_1973.jpg",
+  "artist": "Jean-Paul Riopelle",
+  "work": "Chemin d'hiver",
+  "year": "1973",
+  "kind": "painting"
+ },
+ {
+  "file": "Antoni_Tapies_Lit_and_bed_2006.jpg",
+  "artist": "Antoni Tapies",
+  "work": "Lit and bed",
+  "year": "2006",
+  "kind": "painting"
+ },
+ {
+  "file": "Alberto_Burri_Cretto_Grande_Bianco_1982.jpg",
+  "artist": "Alberto Burri",
+  "work": "Cretto Grande Bianco",
+  "year": "1982",
+  "kind": "painting"
+ },
+ {
+  "file": "Lucio_Fontana_Concept_Spatial_1968.jpg",
+  "artist": "Lucio Fontana",
+  "work": "Concept Spatial",
+  "year": "1968",
+  "kind": "painting"
+ },
+ {
+  "file": "Piero_Dorazio_Irish_1998.jpg",
+  "artist": "Piero Dorazio",
+  "work": "Irish",
+  "year": "1998",
+  "kind": "painting"
+ },
+ {
+  "file": "Victor_Pasmore_The_Starry_Night_1987.jpg",
+  "artist": "Victor Pasmore",
+  "work": "The Starry Night",
+  "year": "1987",
+  "kind": "painting"
+ },
+ {
+  "file": "Ben_Nicholson_20_April_1979_vertical_stripe_1979.jpg",
+  "artist": "Ben Nicholson",
+  "work": "20 April 1979 (vertical stripe)",
+  "year": "1979",
+  "kind": "painting"
+ },
+ {
+  "file": "Patrick_Heron_Untitled_From_The_Brushwork_Series_1999.jpg",
+  "artist": "Patrick Heron",
+  "work": "Untitled (From The Brushwork Series)",
+  "year": "1999",
+  "kind": "painting"
+ },
+ {
+  "file": "Terry_Frost_Blue_and_Lemon_2001.jpg",
+  "artist": "Terry Frost",
+  "work": "Blue and Lemon",
+  "year": "2001",
+  "kind": "painting"
+ },
+ {
+  "file": "William_Scott_Poem_for_a_Jug_No_4_1980.jpg",
+  "artist": "William Scott",
+  "work": "Poem for a Jug No.4",
+  "year": "1980",
+  "kind": "painting"
+ },
+ {
+  "file": "Lyubov_Popova_Space_Force_Construction_1921.jpg",
+  "artist": "Lyubov Popova",
+  "work": "Space Force Construction",
+  "year": "1921",
+  "kind": "painting"
+ },
+ {
+  "file": "Olga_Rozanova_Color_Painting_Non_Objective_Composition_1917.jpg",
+  "artist": "Olga Rozanova",
+  "work": "Color Painting (Non-Objective Composition)",
+  "year": "1917",
+  "kind": "painting"
+ },
+ {
+  "file": "Ivan_Kliun_1922_Red_and_Blue_Suprematist_Composition_1922.jpg",
+  "artist": "Ivan Kliun",
+  "work": "1922 Red and Blue Suprematist Composition",
+  "year": "1922",
+  "kind": "painting"
  }
 ]
